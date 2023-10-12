@@ -16,7 +16,7 @@ I'm Breezely, I'll spare you the pleasantries and simply say that I happen to da
 
 ## **🌸 Discord**
 <a href="https://github.com/LostBreezely"><img align="right" width="100" src="https://media.discordapp.net/attachments/1027288188017987674/1161871642444697680/MikoEmoji.png?ex=6539e04a&is=65276b4a&hm=493793ced26af363921e24b05dd4f1f39fb8b0fb33ac1143539b971f099b3ba0&="></a>
-I've had quite the intrequite history and I'm constantly doing profuse things in an assortment of different communities. As of late I've become much more bot oriented, hence why you'll most likely know me from a bot community.
+I've had quite the ~~intrequite~~ history and I'm constantly doing ~~profus~~e things in an ~~assortment~~ of different communities. As of late I've become much more bot oriented, hence why you'll most likely know me from a bot community.
 
 You'll find the bots I'm actively smashing my keyboard in below.
 
