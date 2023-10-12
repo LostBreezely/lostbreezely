@@ -6,7 +6,7 @@
 <a href="https://discord.com/users/766983509944172554"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/766983509944172554?bg=0d1117&hideBadges=true&borderRadius=20px&idleMessage=Womp%20Womp,%20I'm%20either%20offline%20or%20doing%20something%20productive.%20(surprisingly)&useDisplayName=true?animationDuration=3s?waveColor=4f4a5e&waveSpotifyColor=4f4a5e&gradient=FFFFFF"></a>
 
 ### Heya!:wave: I'm **`Breezely`**!
-**Chronic Student that dabbles in everything.** 
+**Student that dabbles in everything.** 
 
 ## **☕ About me**
 <a href="https://github.com/LostBreezely"><img align="left" width="100" src="https://media.discordapp.net/attachments/1027288188017987674/1161871633481474129/RaidenEmoji.png?ex=6539e047&is=65276b47&hm=5c77c61791db31c1258319b4901a75fa3285190113d065beddc05b8af494651e&="></a>
