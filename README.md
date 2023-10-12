@@ -9,12 +9,10 @@
 **Student that dabbles in everything.** 
 
 ## **☕ About me**
-<a href="https://github.com/LostBreezely"><img align="left" width="100" src="https://media.discordapp.net/attachments/1027288188017987674/1161871633481474129/RaidenEmoji.png?ex=6539e047&is=65276b47&hm=5c77c61791db31c1258319b4901a75fa3285190113d065beddc05b8af494651e&="></a>
+<a href="https://github.com/LostBreezely"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1027288188017987674/1161827841034440825/105017051_p12_3.png?ex=6539b77f&is=6527427f&hm=f7b3aef152abd6318dc05f7b36e28455c04b1f58a0f49ae8cc578b6d5d73b314"></a>
+I'm Breezely, I'll spare you the pleasantries and simply say that I happen to dabble in quite the variety of fortes. I contribute what I can here and there meeting new people along the way.
 
-I'm Breezely, I'll spare you the pleasentires and simply say that I happen to dabble in quite the variety of fortes. 
-I contribute what I can here and there meeting new people along the way. To put it bluntly, Breezely is a very compelling individual.
-
-<br><br>
+> To put it bluntly, Breezely is a very compelling individual.
 
 ## **🌸 Discord**
 <a href="https://github.com/LostBreezely"><img align="right" width="100" src="https://media.discordapp.net/attachments/1027288188017987674/1161871642444697680/MikoEmoji.png?ex=6539e04a&is=65276b4a&hm=493793ced26af363921e24b05dd4f1f39fb8b0fb33ac1143539b971f099b3ba0&="></a>
